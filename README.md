@@ -1,0 +1,2 @@
+# Usefull function prototypes
+ 
